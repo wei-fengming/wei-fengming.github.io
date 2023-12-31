@@ -1,6 +1,6 @@
-<!-- ---
+---
 permalink: /
-title: "个人简介"
+title: "老卫的诗歌"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-卫凤鸣，1936年生，山西省新绛县人，曾担任山西省阳泉市人防办主任，市委政策研究办公室主任 -->
-
-
-老卫的诗歌
-======
 <p>
 <b>2024新年献诗<b><br>
 时光飞逝又一年<br>
